@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🔭 **Web Development Engine:** I architect high-end, dynamic React/TypeScript platforms. I previously co-founded *Roswaldi*, a web agency where we built luxury business portals leveraging modern fluid UI/UX design components.
-- ⚙️ **Process Automation & Computer Vision:** I extensively utilize **Python (`pyautogui`, `pydirectinput`)** and **OpenCV** math models to automate complex GUI pipelines—doing everything from building autonomous visual Minecraft bots that actively evade server moderators, to creating external rendering pipelines for YouTube/TikTok content engines.
+- ⚙️ **Process Automation & Computer Vision:** I extensively utilize **Python (`pyautogui`, `pydirectinput`)** and **OpenCV** math models to automate complex GUI pipelines—doing everything from building autonomous video publishing and scheduling engines to creating external rendering pipelines for YouTube/TikTok content.
 - 💬 **Data & Discord Infrastructure:** I engineer massive modular Discord Bot ecosystems in `discord.py`. My largest projects feature embedded SQLite economies, real-time banking, full RPG leveling systems, and live storefronts parsing external data via Selenium arrays.
 - 🧠 **Problem Solving:** I thrive on optimizing efficiency. Whether it is solving logic matrices for Captchas without neural networks, structuring multi-threaded headless Mineflayer swarms, or writing JSON-driven web scrapers, I enjoy making the impossible completely hands-free.
 
@@ -37,11 +37,11 @@
 
 If you are exploring my repositories, here are the core pieces of my portfolio that demonstrate my deep logic implementations:
 
-1. **[The Autonomous Minecraft Evasion Engine](https://github.com/airidas-rom/old-mc-project):** A pure OpenCV script analyzing live pixels to evade server admins while autonomously farming `$WRLD` crypto tokens.
-2. **[Horizon Bot Ecosystem](https://github.com/airidas-rom/horizon_bot):** A monolithic 44-Cog Python application containing an entire runtime RPG and SQLite Virtual Economy.
-3. **[The Least-Img-Counter](https://github.com/airidas-rom/least-img-counter):** A mathematical imaging engine solving logic-based Odd-One-Out Captchas purely through visual similarity coefficients rather than AI training.
-4. **[Splitgate Triggerbot](https://github.com/airidas-rom/splitgate-triggerbot):** A low-level hardware click-spoofer exploring anti-cheat evasion via direct X/Y manipulation.
-5. **[Roswaldi Agency (Teply/ARO)](https://github.com/airidas-rom/roswaldi-official):** The peak of my web-development architectural standards—featuring modern aesthetics and flawless React rendering.
+1. **[Horizon Bot Ecosystem](https://github.com/airidas-rom/horizon_bot):** A monolithic 44-Cog Python application containing an entire runtime RPG and SQLite Virtual Economy.
+2. **[Data Ingestion Pipelines (Stock-Sorting)](https://github.com/airidas-rom/stock-sorting):** A zero-dependency Python/SQLite middleware parser designed to ingest massive, messy JSON arrays from internet scrapers and bind them structurally into a database utilizing strict Composite Keys.
+3. **[ae-au (Auto-Editor Auto-Upload)](https://github.com/airidas-rom/ae-au):** An advanced computer vision script utilizing `cv2.matchTemplate` to detect intricate elements in the YouTube Studio interface, mimicking mouse-drags to autonomously upload and iterate calendar scheduling.
+4. **[The Least-Img-Counter](https://github.com/airidas-rom/least-img-counter):** A mathematical imaging engine solving logic-based Odd-One-Out visual arrays purely through structural similarity coefficients rather than massive AI training.
+5. **[Roswaldi Agency (Teply/ARO)](https://github.com/airidas-rom/roswaldi-official):** The peak of my web-development architectural standards—featuring modern aesthetic components, Framer motion, and flawless React rendering.
 
 ---
 
