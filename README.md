@@ -38,7 +38,7 @@
 If you are exploring my repositories, here are the core pieces of my portfolio that demonstrate my deep logic implementations:
 
 1. **[Horizon Bot Ecosystem](https://github.com/airidas-rom/horizon_bot):** A monolithic 44-Cog Python application containing an entire runtime RPG and SQLite Virtual Economy.
-2. **[Data Ingestion Pipelines (Stock-Sorting)](https://github.com/airidas-rom/stock-sorting):** A zero-dependency Python/SQLite middleware parser designed to ingest massive, messy JSON arrays from internet scrapers and bind them structurally into a database utilizing strict Composite Keys.
+2. **[ARO1 (Physical Web Pipeline)](https://github.com/airidas-rom/ARO1):** A real-world physical service venture natively architected on a high-speed React/Vite/Tailwind frontend stack, demonstrating capital execution and real-world compliance routing.
 3. **[ae-au (Auto-Editor Auto-Upload)](https://github.com/airidas-rom/ae-au):** An advanced computer vision script utilizing `cv2.matchTemplate` to detect intricate elements in the YouTube Studio interface, mimicking mouse-drags to autonomously upload and iterate calendar scheduling.
 4. **[The Least-Img-Counter](https://github.com/airidas-rom/least-img-counter):** A mathematical imaging engine solving logic-based Odd-One-Out visual arrays purely through structural similarity coefficients rather than massive AI training.
 5. **[Roswaldi Agency (Teply/ARO)](https://github.com/airidas-rom/roswaldi-official):** The peak of my web-development architectural standards—featuring modern aesthetic components, Framer motion, and flawless React rendering.
