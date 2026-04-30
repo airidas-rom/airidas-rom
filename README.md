@@ -1,50 +1,52 @@
-<h1 align="center">Hi there, I'm Airidas 👋</h1>
+<h1 align="center">Airidas Romanovas</h1>
 
-<h3 align="center">Full-Stack Developer | Lead Automation Engineer | Solutions Architect</h3>
+<h3 align="center">Engineering & AI Automation Consultant</h3>
 
 <p align="center">
-  My passion lies in bridging the gap between web applications and autonomous systems. I build high-end interactive websites and robust backend automation algorithms—specializing in Computer Vision, Headless Orchestration, and E-Commerce Integrations.
+  I specialize in building custom software tools, data integrations, and AI-driven systems to eliminate manual work. By bridging the gap between web infrastructure and autonomous systems, I help businesses scale through headless orchestration, process automation, and intelligent pipelines.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Core Competencies
 
-- 🔭 **Web Development Engine:** I architect high-end, dynamic React/TypeScript platforms. I previously co-founded *Roswaldi*, a web agency where we built luxury business portals leveraging modern fluid UI/UX design components.
-- ⚙️ **Process Automation & Computer Vision:** I extensively utilize **Python (`pyautogui`, `pydirectinput`)** and **OpenCV** math models to automate complex GUI pipelines—doing everything from building autonomous video publishing and scheduling engines to creating external rendering pipelines for YouTube/TikTok content.
-- 💬 **Data & Discord Infrastructure:** I engineer massive modular Discord Bot ecosystems in `discord.py`. My largest projects feature embedded SQLite economies, real-time banking, full RPG leveling systems, and live storefronts parsing external data via Selenium arrays.
-- 🧠 **Problem Solving:** I thrive on optimizing efficiency. Whether it is solving logic matrices for Captchas without neural networks, structuring multi-threaded headless Mineflayer swarms, or writing JSON-driven web scrapers, I enjoy making the impossible completely hands-free.
+- ⚙️ **Process Automation & Computer Vision:** Extensive utilization of **Python** and **OpenCV** math models to automate complex GUI pipelines—building autonomous execution engines and headless data extraction scripts.
+- 💬 **Data Infrastructure & System Integration:** Engineering modular backend ecosystems with SQLite/PostgreSQL, JSON schema modeling, and building dynamic API bridges to synchronize disjointed business software.
+- 🔭 **Web Engineering & Architecture:** Architecting high-speed, dynamic web platforms and dashboards using modern component architecture to provide clean, accessible interfaces for complex data structures.
 
 ---
 
-## 🛠️ Technology & Tools Stack
-
-### Frontend & UI/UX Design
-> **React.js | TypeScript | JavaScript | Tailwind CSS | HTML5/CSS3** 
-*(Focusing on scalable component architecture, interactive framer animations, and distinct brand identities).*
-
-### Backend & Database Architecture
-> **Python | Express.js | Node.js | SQLite | JSON Schema Modeling**
-*(Building modular endpoints, managing relational databases with composite keys, and ensuring rigorous data integrity).*
+## 🛠️ Technology & Engineering Stack
 
 ### Automation & Scraping Engines
-> **Selenium WebDriver | BeautifulSoup4 | OpenCV | PyAutoGUI | Puppeteer / Mineflayer**
-*(Mastery over DOM/Web Scraping, Headless Client Manipulation, and advanced Hardware-level Click Emulation).*
+> **Python | Selenium WebDriver | OpenCV | PyAutoGUI | BeautifulSoup4**
+*(Mastery over DOM parsing, Headless Client Manipulation, GUI Automation, and intelligent web scraping).*
+
+### Backend & Database Architecture
+> **Python | Node.js | SQLite | REST APIs | Gemini/OpenAI Integrations**
+*(Building modular endpoints, managing relational databases, and implementing AI-driven text/data processing pipelines).*
+
+### Frontend Infrastructure
+> **React.js | TypeScript | JavaScript | Tailwind CSS** 
+*(Focusing on scalable component architecture, interactive data visualization, and professional B2B interfaces).*
 
 ---
 
 ## 🏆 Highlighted Engineering Feats
 
-If you are exploring my repositories, here are the core pieces of my portfolio that demonstrate my deep logic implementations:
+These public repositories demonstrate my logic implementations and autonomous system architectures:
 
-1. **[Horizon Bot Ecosystem](https://github.com/airidas-rom/horizon_bot):** A monolithic 44-Cog Python application containing an entire runtime RPG and SQLite Virtual Economy.
-2. **[ARO1 (Physical Web Pipeline)](https://github.com/airidas-rom/ARO1):** A real-world physical service venture natively architected on a high-speed React/Vite/Tailwind frontend stack, demonstrating capital execution and real-world compliance routing.
-3. **[ae-au (Auto-Editor Auto-Upload)](https://github.com/airidas-rom/ae-au):** An advanced computer vision script utilizing `cv2.matchTemplate` to detect intricate elements in the YouTube Studio interface, mimicking mouse-drags to autonomously upload and iterate calendar scheduling.
-4. **[The Least-Img-Counter](https://github.com/airidas-rom/least-img-counter):** A mathematical imaging engine solving logic-based Odd-One-Out visual arrays purely through structural similarity coefficients rather than massive AI training.
-5. **[Roswaldi Agency (Teply/ARO)](https://github.com/airidas-rom/roswaldi-official):** The peak of my web-development architectural standards—featuring modern aesthetic components, Framer motion, and flawless React rendering.
+1. **[Ghost Outbound Engine (Private Architecture)](#):** A proprietary Python-based B2B Outreach script integrating the Gemini AI API to autonomously scrape target company data and dynamically generate hyper-personalized sales emails without hitting API rate limits.
+2. **[Skelbiu Bot](https://github.com/airidas-rom/skelbiu-bot):** An automated marketplace management script demonstrating persistent session handling, robust error recovery, and seamless external API notifications (Telegram) to maintain digital asset visibility.
+3. **[ae-au (Auto-Editor Auto-Upload)](https://github.com/airidas-rom/ae-au):** An advanced computer vision script utilizing `cv2.matchTemplate` to detect intricate visual elements in complex proprietary interfaces, autonomously executing rendering and scheduling pipelines.
+4. **[Stock Sorting Architecture](https://github.com/airidas-rom/stock-sorting):** A modular data-processing algorithm built to ingest, validate, and categorize raw inventory datasets with strict compliance routing.
+5. **[B2B Portfolio Platform](https://github.com/airidas-rom/airidasrom):** The architectural foundation of my consulting presence—featuring modern aesthetic components, geometric layouts, and flawless React rendering.
 
 ---
 
 <p align="center">
   <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
+</p>
+<p align="center">
+  🌐 <a href="https://airidasrom.vercel.app">airidasrom.vercel.app</a>
 </p>
